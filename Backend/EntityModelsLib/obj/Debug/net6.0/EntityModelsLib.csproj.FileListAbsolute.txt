@@ -1,0 +1,12 @@
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\bin\Debug\net6.0\EntityModelsLib.deps.json
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\bin\Debug\net6.0\EntityModelsLib.dll
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\bin\Debug\net6.0\EntityModelsLib.pdb
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\EntityModelsLib.csproj.AssemblyReference.cache
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\EntityModelsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\EntityModelsLib.AssemblyInfoInputs.cache
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\EntityModelsLib.AssemblyInfo.cs
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\EntityModelsLib.csproj.CoreCompileInputs.cache
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\EntityModelsLib.dll
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\refint\EntityModelsLib.dll
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\EntityModelsLib.pdb
+D:\HotelBookingProject\HotelBooking\EntityModelsLib\obj\Debug\net6.0\ref\EntityModelsLib.dll

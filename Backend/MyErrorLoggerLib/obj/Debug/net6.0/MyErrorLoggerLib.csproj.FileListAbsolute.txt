@@ -1,0 +1,12 @@
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\bin\Debug\net6.0\MyErrorLoggerLib.deps.json
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\bin\Debug\net6.0\MyErrorLoggerLib.dll
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\bin\Debug\net6.0\MyErrorLoggerLib.pdb
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\MyErrorLoggerLib.csproj.AssemblyReference.cache
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\MyErrorLoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\MyErrorLoggerLib.AssemblyInfoInputs.cache
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\MyErrorLoggerLib.AssemblyInfo.cs
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\MyErrorLoggerLib.csproj.CoreCompileInputs.cache
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\MyErrorLoggerLib.dll
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\refint\MyErrorLoggerLib.dll
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\MyErrorLoggerLib.pdb
+D:\HotelBookingProject\HotelBooking\MyErrorLoggerLib\obj\Debug\net6.0\ref\MyErrorLoggerLib.dll

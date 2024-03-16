@@ -1,0 +1,12 @@
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\UtilityLib.csproj.AssemblyReference.cache
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\UtilityLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\UtilityLib.AssemblyInfoInputs.cache
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\UtilityLib.AssemblyInfo.cs
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\UtilityLib.csproj.CoreCompileInputs.cache
+D:\HotelBookingProject\HotelBooking\UtilityLib\bin\Debug\net6.0\UtilityLib.deps.json
+D:\HotelBookingProject\HotelBooking\UtilityLib\bin\Debug\net6.0\UtilityLib.dll
+D:\HotelBookingProject\HotelBooking\UtilityLib\bin\Debug\net6.0\UtilityLib.pdb
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\UtilityLib.dll
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\refint\UtilityLib.dll
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\UtilityLib.pdb
+D:\HotelBookingProject\HotelBooking\UtilityLib\obj\Debug\net6.0\ref\UtilityLib.dll
